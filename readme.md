@@ -1,6 +1,6 @@
 # Approximation Algorithms for min max correlation clustering (MMCC)
 
-
+This repository contains algorithms for the min max correlation clustering problem that are published [here](arxiv.com).
 
 ## Structure
 
@@ -50,7 +50,3 @@ in `synthetic_experiment.py`.
 ### Data
 The graph data for the social network experiments can be downloaded from [here](https://snap.stanford.edu/data/).
 Place the data into a data directory that is on the same level as the `social_network_experiments.py` file.
-
-## References
-
-arxive
