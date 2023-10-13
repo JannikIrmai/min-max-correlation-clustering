@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+data/
+mmcc_approximation_cpp/.vscode/
+mmcc_approximation_cpp/build/
+*.egg-info
