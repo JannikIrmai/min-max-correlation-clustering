@@ -7,6 +7,7 @@ This repository contains algorithms for the min max correlation clustering probl
 The directory `mmcc_approximation_cpp` contains `c++` implementations of the algorithms 
 as well as a python interface for those implementations. 
 The python interface is based on [pybind11](https://pybind11.readthedocs.io/en/stable/index.html).
+The python files in the top level directory contain code for reproducing the experiments from the article.
 
 ## Installation
 
