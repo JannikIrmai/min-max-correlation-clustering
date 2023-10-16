@@ -4,3 +4,4 @@ data/
 mmcc_approximation_cpp/.vscode/
 mmcc_approximation_cpp/build/
 *.egg-info
+/.idea/
