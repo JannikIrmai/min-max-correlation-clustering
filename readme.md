@@ -11,8 +11,7 @@ The python files in the top level directory contain code for reproducing the exp
 
 ## Installation
 
-To install the `c++` implementation of the MMCC approximation algorithms as a python package, execute 
-from the `code` directory:
+To install the `c++` implementation of the MMCC approximation algorithms as a python package, execute:
 ```
 pip install wheel
 pip install pybind11
@@ -50,7 +49,7 @@ in `synthetic_experiment.py`.
 
 ### Data
 The graph data for the social network experiments can be downloaded from [here](https://snap.stanford.edu/data/).
-Place the data into a data directory that is on the same level as the `social_network_experiments.py` file.
+Place the data into a `data` directory that is on the same level as the `social_network_experiments.py` file.
 
 
 ## Cite this work
