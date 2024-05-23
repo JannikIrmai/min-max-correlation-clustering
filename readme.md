@@ -56,10 +56,10 @@ Place the data into a `data` directory that is on the same level as the `social_
 
 ```
 @InProceedings{heidrich2024a,
-  title = 	  { A 4-Approximation Algorithm for Min Max Correlation Clustering },
-  author =    {S.G. Heidrich, Holger and Irmai, Jannik and Andres, Bjoern},
+  title = {A 4-Approximation Algorithm for Min Max Correlation Clustering},
+  author = {S.G. Heidrich, Holger and Irmai, Jannik and Andres, Bjoern},
   booktitle = {Proceedings of The 27th International Conference on Artificial Intelligence and Statistics},
-  year = 	  {2024},
-  url = 	  {https://proceedings.mlr.press/v238/s-g-heidrich24a.html}
+  year = {2024},
+  url = {https://proceedings.mlr.press/v238/s-g-heidrich24a.html}
 }
 ```
