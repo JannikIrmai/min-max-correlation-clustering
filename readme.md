@@ -1,6 +1,6 @@
 # Approximation Algorithms for min max correlation clustering (MMCC)
 
-This repository contains algorithms for the min max correlation clustering problem that are published [here](https://arxiv.org/abs/2310.09196).
+This repository contains algorithms for the min max correlation clustering problem that are published [here](https://proceedings.mlr.press/v238/s-g-heidrich24a.html).
 
 ## Structure
 
@@ -55,12 +55,11 @@ Place the data into a `data` directory that is on the same level as the `social_
 ## Cite this work
 
 ```
-@misc{heidrich20234approximation,
-      title={A 4-approximation algorithm for min max correlation clustering}, 
-      author={Holger Heidrich and Jannik Irmai and Bjoern Andres},
-      year={2023},
-      eprint={2310.09196},
-      archivePrefix={arXiv},
-      url={https://arxiv.org/abs/2310.09196}
+@InProceedings{heidrich2024a,
+  title = 	  { A 4-Approximation Algorithm for Min Max Correlation Clustering },
+  author =    {S.G. Heidrich, Holger and Irmai, Jannik and Andres, Bjoern},
+  booktitle = {Proceedings of The 27th International Conference on Artificial Intelligence and Statistics},
+  year = 	  {2024},
+  url = 	  {https://proceedings.mlr.press/v238/s-g-heidrich24a.html}
 }
 ```
